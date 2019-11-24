@@ -14,6 +14,7 @@ namespace gittest
         [STAThread]
         static void Main()
         {
+            // test change for conflict
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
